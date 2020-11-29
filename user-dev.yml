@@ -18,4 +18,4 @@ eureka:
     lease-renewal-interval-in-seconds: 10
     lease-expiration-duration-in-seconds: 30
 test:
-  name: wasai
+  name: bujiangwude
